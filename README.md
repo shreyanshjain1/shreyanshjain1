@@ -21,27 +21,27 @@
 
 ## About Me
 
-I build **real-world business systems**, **modern web apps**, and **security-aware tools** that solve operational problems.
+I build **real-world business systems**, **modern web applications**, and **security-aware tools** that solve practical operational problems.
 
-My work sits at the intersection of:
+My work combines:
 
-- full-stack development
-- internal business systems
-- infrastructure and operations
-- e-commerce technology
-- cybersecurity-minded implementation
+- **full-stack development**
+- **internal workflow and business systems**
+- **infrastructure and technical operations**
+- **e-commerce technology**
+- **security-minded implementation**
 
-I work across both **practical legacy environments** like **PHP/MySQL/cPanel** and more modern stacks like **Next.js, TypeScript, PostgreSQL, Prisma, and Vercel**.
+I work across both **practical production environments** like **PHP, MySQL, cPanel, XAMPP, and hosted business systems** and modern product stacks like **Next.js, TypeScript, Prisma, PostgreSQL, Tailwind CSS, and Vercel**.
 
 ---
 
-## What I’m Focused On
+## What I Do
 
-- Building polished full-stack apps with strong UX and practical business value
-- Developing internal systems for workflow, approvals, reporting, and operations
-- Creating security-minded software with better controls, visibility, and resilience
-- Growing into stronger backend, systems, and cybersecurity roles
-- Shipping portfolio-worthy projects that reflect real implementation depth
+- Build internal systems for approvals, workflows, reporting, and operations
+- Ship modern full-stack apps with strong UX and practical product thinking
+- Create secure and maintainable tools with better controls and visibility
+- Work across backend logic, deployment, hosting, integrations, and troubleshooting
+- Turn business needs into usable systems that teams can actually rely on
 
 ---
 
@@ -75,6 +75,23 @@ I work across both **practical legacy environments** like **PHP/MySQL/cPanel** a
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyanshjain1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshjain1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://streak-stats.demolab.com?user=shreyanshjain1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
 ## Featured Projects
 
 ### TrailPulse
@@ -94,6 +111,17 @@ An OCR and cheque-processing workflow application built for back-office efficien
 
 ### Employee Task Management Software
 A task and workflow management platform with role-based operational visibility and team-focused process support.
+
+---
+
+## Pinned Repository Links
+
+- [TrailPulse](https://github.com/shreyanshjain1/TrailPulse)
+- [VitaVault](https://github.com/shreyanshjain1/VitaVault)
+- [OfficeHub](https://github.com/shreyanshjain1/OfficeHub)
+- [BaitBuster](https://github.com/shreyanshjain1/BaitBuster)
+- [OCR-Scanner-Cheques](https://github.com/shreyanshjain1/OCR-Scanner-Cheques)
+- [Employee-Task-Management-Software](https://github.com/shreyanshjain1/Employee-Task-Management-Software)
 
 ---
 
@@ -125,12 +153,12 @@ DOI: `10.1145/3641181.3641198`
 
 ---
 
-## Current Goals
+## Current Focus
 
-- Build stronger flagship full-stack applications
-- Strengthen backend and systems architecture skills
-- Keep shipping practical internal tools and workflow software
-- Grow deeper in secure development and cybersecurity implementation
+- Building stronger flagship full-stack applications
+- Improving backend and systems architecture depth
+- Shipping more polished internal tools and workflow software
+- Growing deeper in secure development and cybersecurity implementation
 
 ---
 
