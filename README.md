@@ -79,8 +79,8 @@ I work across both **practical production environments** like **PHP, MySQL, cPan
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyanshjain1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshjain1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyanshjain1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshjain1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 
 </div>
 
