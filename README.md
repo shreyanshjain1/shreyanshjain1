@@ -21,27 +21,27 @@
 
 ## About Me
 
-I build **real-world business systems**, **modern full-stack web applications**, and **search-focused web experiences** that solve practical problems and create measurable business value.
+I build **real-world business systems**, **modern full-stack applications**, and **search-focused websites** that solve practical operational problems and create measurable value.
 
-My work sits at the intersection of:
+My work blends:
 
 - **full-stack development**
-- **SEO-driven website builds and optimization**
+- **SEO-focused website strategy and implementation**
 - **internal workflow and business systems**
 - **infrastructure and technical operations**
-- **security-minded implementation**
-- **e-commerce technology and reporting**
+- **security-minded engineering**
+- **e-commerce systems and reporting**
 
-I work across both practical production environments like **PHP, MySQL, cPanel, XAMPP, IIS, Apache, and hosted internal systems** and modern product stacks like **Next.js, TypeScript, Prisma, PostgreSQL, Tailwind CSS, Redis, BullMQ, and Vercel**.
+I work across practical production environments like **PHP, MySQL, cPanel, XAMPP, IIS, Apache, and hosted internal systems**, while also building on modern stacks like **Next.js, TypeScript, Prisma, PostgreSQL, Tailwind CSS, Redis, BullMQ, and Vercel**.
 
 ---
 
-## What I Do
+## What I Work On
 
-- Build internal systems for approvals, workflows, reporting, inventory, quotations, and operations
-- Ship modern full-stack apps with strong UX, real data flows, and production-minded architecture
-- Create search-focused websites with technical SEO improvements, structured content, and stronger discoverability
-- Handle backend logic, deployment, hosting, integrations, troubleshooting, and security hardening
+- Build internal systems for approvals, workflows, inventory, quotations, reporting, and daily operations
+- Ship full-stack apps with strong UX, real data workflows, and production-minded architecture
+- Create SEO-focused websites with stronger content structure, technical improvements, and search visibility thinking
+- Handle backend logic, deployment, hosting, integrations, maintenance, and troubleshooting
 - Turn messy business requirements into usable systems teams can actually rely on
 
 ---
@@ -79,49 +79,51 @@ I work across both practical production environments like **PHP, MySQL, cPanel, 
 
 ---
 
-## GitHub Stats
+## Project Highlights
 
-<div align="center">
+Instead of relying on third-party GitHub stat cards that break randomly, here’s a cleaner snapshot of the kind of work I am actively building:
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyanshjain1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshjain1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+- Building **flagship full-stack systems** with production-minded architecture
+- Shipping **internal business software** with role controls, reporting, workflow logic, and operational depth
+- Growing deeper across **web development, infrastructure, security, and technical operations**
+- Expanding into **SEO-focused web builds and search visibility work** through practical projects
+- Continuously improving repositories so they look and feel closer to **real products**, not just student demos
 
-</div>
+---
 
-<div align="center">
+## Featured Repositories
 
-<img height="170" src="https://streak-stats.demolab.com?user=shreyanshjain1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
+| Project | Focus | Why It Stands Out |
+|--------|-------|-------------------|
+| [CrickInPhSEO](https://github.com/shreyanshjain1/CrickInPhSEO) | SEO / Content Strategy / Search Visibility | A search-focused project built around SEO structure, content targeting, on-page optimization, technical improvements, and visibility work for cricket-related search intent in the Philippines. |
+| [Vertex-POS](https://github.com/shreyanshjain1/Vertex-POS) | Full-Stack POS / Inventory / Reporting | A production-minded retail system with inventory workflows, operational logic, receipts, reporting, permissions, and stronger product depth than a typical student POS project. |
+| [VitaVault](https://github.com/shreyanshjain1/VitaVault) | Health-Tech / Full-Stack Product | A personal health record platform showing deeper product ambition, secure architecture, modular growth potential, and real-world health-tech applicability. |
+| [TrailPulse](https://github.com/shreyanshjain1/TrailPulse) | Full-Stack SaaS / Planning Platform | A modern web app with authentication, planning workflows, background jobs, integrations, and a more scalable product structure. |
+| [OfficeHub](https://github.com/shreyanshjain1/OfficeHub) | Internal Workflow Software | An operations-focused request and approval platform built around practical business process handling and admin visibility. |
 
 ---
 
 ## Featured Projects
 
 ### CrickInPhSEO
-A search-focused cricket website project built to improve discoverability for cricket-related searches in the Philippines. This repo highlights my SEO-focused work around content structure, keyword targeting, on-page optimization, technical improvements, and building a cleaner search presence through a real shipped website.
+A search-focused cricket website project built to improve discoverability for cricket-related searches in the Philippines. This repo reflects hands-on SEO work around structure, keyword targeting, on-page optimization, technical cleanup, and building a cleaner search presence through a real shipped website.
 
 **Repo:** [CrickInPhSEO](https://github.com/shreyanshjain1/CrickInPhSEO)
 
 ### Vertex-POS
-A production-minded point-of-sale system focused on real business workflows rather than student-demo features. It includes stronger operational flows like inventory movement, adjustments, receipts, reporting, permissions, and multi-module business logic aimed at making it feel closer to an actual deployable retail product.
+A production-minded point-of-sale system designed around real business workflows instead of student-demo features. It pushes into inventory movement, operational controls, receipts, analytics, reporting, permissions, and retail logic that make it feel closer to an actual product.
 
 **Repo:** [Vertex-POS](https://github.com/shreyanshjain1/Vertex-POS)
 
 ### VitaVault
-A health-tech full-stack platform for personal health records, secure data organization, caregiver-aware workflows, and production-style architecture. This is one of my strongest product-focused repos and showcases modern application structure, healthcare-oriented thinking, modular growth, and deeper backend ambition.
+A health-tech full-stack platform for personal health records, secure data organization, caregiver-aware workflows, and modular product growth. One of my strongest product-focused repos, built to reflect deeper backend ambition and real-world platform thinking.
 
 **Repo:** [VitaVault](https://github.com/shreyanshjain1/VitaVault)
 
 ### TrailPulse
-A full-stack hiking trail discovery and planning platform with authentication, planning workflows, background jobs, calendar integration, and a modern product-minded architecture.
+A full-stack hiking trail discovery and planning platform with authentication, calendar integration, background jobs, saved planning workflows, and a modern product-minded architecture.
 
 **Repo:** [TrailPulse](https://github.com/shreyanshjain1/TrailPulse)
-
-### OfficeHub
-An internal request and workflow platform for office operations, approvals, assignment, and secure business process handling.
-
-**Repo:** [OfficeHub](https://github.com/shreyanshjain1/OfficeHub)
 
 ---
 
@@ -129,7 +131,7 @@ An internal request and workflow platform for office operations, approvals, assi
 
 - **IT & E-Commerce Business Lead** at **Pharmastar International Trading Corp.**
 - Build and manage internal systems, e-commerce operations, reporting tools, infrastructure tasks, and business-facing technical solutions
-- Work across website operations, marketplace workflows, SEO-focused pages, automation, and secure business process improvements
+- Work across website operations, SEO-focused pages, marketplace workflows, automation, and secure process improvements
 - Hands-on with both legacy business stacks and modern full-stack product development
 
 ---
@@ -152,13 +154,12 @@ DOI: `10.1145/3641181.3641198`
 
 ---
 
-## Current Focus
+## Current Build Direction
 
-- Building stronger flagship full-stack applications
-- Shipping more production-minded systems with security and operational depth
-- Improving SEO implementation through real website projects and search-focused experimentation
-- Growing deeper in backend architecture, workers, automation, and technical operations
-- Turning business and product ideas into practical systems with clear real-world use
+- **Full-Stack Development** — building business systems, SaaS-style platforms, dashboards, and internal tools
+- **SEO & Search Visibility** — applying practical SEO structure, content targeting, technical improvements, and ranking-focused thinking
+- **Systems & Infrastructure** — handling deployment, hosting, maintenance, and technical operations
+- **Security-Minded Engineering** — building with stronger controls, cleaner workflows, and better reliability in mind
 
 ---
 
